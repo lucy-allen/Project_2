@@ -19,3 +19,9 @@ Variables:
 - Distance to Beach
 - Distance^2
 
+### CODE
+Python Files can be found [here](https://github.com/lucy-allen/Project_2/tree/master/Python_Files):
+- These contain the web scraping code as well as a file for helper functions used in the notebooks  
+
+Jupyter Notebooks can be found [here](https://github.com/lucy-allen/Project_2/tree/master/Jupyter%20Notebooks):
+- These contain a notebook for creating the table as well as a notebook for the modelling
