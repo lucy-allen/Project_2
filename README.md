@@ -1,22 +1,21 @@
-# Predicting Rental Prices for Beach Homes at the Sothern Tip of New Jersey
+# Metis Project 2
+## Predicting Rental Prices for Beach Homes at the Sothern Tip of New Jersey
+### OBJECTIVE  
+
+Help people who are interested in buying a beach home in Cape May County New Jersey understand how rental income can help them.  
+- Predict the amount of rental income the house will earn on a per night basis
+
 ### DATA
 Website:
-- VRBO  
+- [VRBO](https://www.vrbo.com)  
+
+Target:
+- Log(Price) (per night)
 
 Variables:
-- Prices (per night)
 - Type of property
 - Bedrooms
 - Bathrooms
-- Sleeps ?
 - Distance to Beach
-- Number of Reviews
+- Distance^2
 
-Story:  
-- A 5 part lecture series for people who want to buy a beach home but need rental income to help them afford it
-- Part 1:
-  - How to predict rental income per night
-- Part 2:
-  - How to determine % of nights it will be rented
-- Part 3:
-  - ??
